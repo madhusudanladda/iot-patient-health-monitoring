@@ -18,4 +18,4 @@ and sends data wirelessly using ESP8266.
 - Wireless IoT data transmission
 
 ### Circuit Diagram
-![Circuit](circuit_diagram.png)
+![Circuit](circuit.png)
